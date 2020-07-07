@@ -10,7 +10,8 @@ The package is a fork of the [original](https://github.com/pwnall/node-xhr2), wh
 
 This library is tested against the following platforms.
 
-* [node.js](http://nodejs.org/) 10.0
+* [node.js](http://nodejs.org/) 10
+* [node.js](http://nodejs.org/) 12
 
 Keep in mind that the versions above are not hard requirements.
 
@@ -114,7 +115,7 @@ Installing CoffeeScript globally will let you type `cake` instead of
 `node_modules/.bin/cake`
 
 ```bash
-npm install -g coffee-script
+npm install -g coffeescript
 ```
 
 The library comes with unit tests that exercise the XMLHttpRequest API.
